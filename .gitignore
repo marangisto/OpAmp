@@ -23,4 +23,5 @@ cabal.project.local~
 *.log
 *.plt
 *.raw
+*.net
 \~*
